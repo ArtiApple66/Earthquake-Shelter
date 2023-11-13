@@ -1,0 +1,12 @@
+This repository consists of  a user-friendly interface that allows individuals to design their own plan for 
+emergency shelters and eventually generate their own structure in a 3D space. 
+
+The working interface we created is saved inside the .venv map
+For the final interface of the project open interfacefancy.py 
+The other py files are tryouts and examples of different options.
+
+First fill in your information, then the render button will come online, 
+you can draw you plan and once the render button is hit it will save the centerpoints of the squares in points.csv. 
+We use these to create a grid in grashopper rhino 
+
+

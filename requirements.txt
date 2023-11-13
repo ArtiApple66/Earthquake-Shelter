@@ -1,0 +1,13 @@
+Required libraries for python code: 
+Tkinter
+customtkinter
+numpy
+csv
+re
+mayavi
+mathplotlib
+
+The green.json file from the custom tkinter library has been altered to create a beige grey theme instead of green 
+
+
+
